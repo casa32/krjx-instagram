@@ -1,5 +1,40 @@
 [
- {"kst":"2026-11-16 18:45","product_no":5926,"name":"24K 원터치 빛살 컷팅 나비 귀걸이 3.75g","files":["stories/2026-11-16/earring-1.jpg","stories/2026-11-16/earring-2.jpg","stories/2026-11-16/earring-3.jpg"]},
- {"kst":"2026-11-16 18:45","product_no":6476,"name":"24K 순금 9999 골드바 3.75g","files":["stories/2026-11-16/goldbar-1.jpg","stories/2026-11-16/goldbar-2.jpg","stories/2026-11-16/goldbar-3.jpg"]},
- {"kst":"2026-11-16 19:05","product_no":6214,"name":"24K 순금 목걸이 루미나 플라워 3.75g+18K 잠금장식","price":927700,"media_ids":["18132663643773738","17961453201016204","18121032595994453"],"files":["stories/2026-11-16/lumina-necklace-1.jpg","stories/2026-11-16/lumina-necklace-2.jpg","stories/2026-11-16/lumina-necklace-3.jpg"]}
+ {
+  "kst": "2026-11-16 18:45",
+  "product_no": 5926,
+  "name": "24K 원터치 빛살 컷팅 나비 귀걸이 3.75g",
+  "files": [
+   "stories/2026-11-16/earring-1.jpg",
+   "stories/2026-11-16/earring-2.jpg",
+   "stories/2026-11-16/earring-3.jpg"
+  ]
+ },
+ {
+  "kst": "2026-11-16 18:45",
+  "product_no": 6476,
+  "name": "24K 순금 9999 골드바 3.75g",
+  "files": [
+   "stories/2026-11-16/goldbar-1.jpg",
+   "stories/2026-11-16/goldbar-2.jpg",
+   "stories/2026-11-16/goldbar-3.jpg"
+  ]
+ },
+ {
+  "kst": "2026-11-16 19:05",
+  "product_no": 6214,
+  "name": "24K 순금 목걸이 루미나 플라워 3.75g+18K 잠금장식",
+  "price": 927700,
+  "media_ids": [
+   "18132663643773738",
+   "17961453201016204",
+   "18121032595994453",
+   "18145243846619518"
+  ],
+  "files": [
+   "stories/2026-11-16/lumina-necklace-1.jpg",
+   "stories/2026-11-16/lumina-necklace-2.jpg",
+   "stories/2026-11-16/lumina-necklace-3.jpg",
+   "stories/2026-11-16/lumina-necklace-3b.jpg"
+  ]
+ }
 ]
