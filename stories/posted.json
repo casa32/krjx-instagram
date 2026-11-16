@@ -53,5 +53,22 @@
    "stories/2026-11-16/lucky-key-2.jpg",
    "stories/2026-11-16/lucky-key-3.jpg"
   ]
+ },
+ {
+  "kst": "2026-11-17 01:20",
+  "product_no": 6460,
+  "name": "24K 순금 999.9 십이지신 골드바 3.75g",
+  "type": "goldbar",
+  "price": 743700,
+  "media_ids": [
+   "17913995850483521",
+   "17963106339257109",
+   "18020141591955661"
+  ],
+  "files": [
+   "stories/2026-11-17/zodiac-goldbar-1.jpg",
+   "stories/2026-11-17/zodiac-goldbar-2.jpg",
+   "stories/2026-11-17/zodiac-goldbar-3.jpg"
+  ]
  }
 ]
