@@ -89,5 +89,22 @@
    "stories/2026-11-17/square-ring-3.jpg"
   ],
   "note": "3번째 장 Instagram 오류로 미게시, 재시도 승인 대기"
+ },
+ {
+  "kst": "2026-11-17 07:20",
+  "product_no": 4437,
+  "name": "24K 순금 거북이 3.75g",
+  "type": "souvenir",
+  "price": 758000,
+  "media_ids": [
+   "18018087857973303",
+   "18455123734135513",
+   "17893946871455383"
+  ],
+  "files": [
+   "stories/2026-11-17/turtle-1.jpg",
+   "stories/2026-11-17/turtle-2.jpg",
+   "stories/2026-11-17/turtle-3.jpg"
+  ]
  }
 ]
