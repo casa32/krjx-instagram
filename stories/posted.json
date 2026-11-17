@@ -171,5 +171,22 @@
       "stories/2026-11-17/silver-bar-1kg-2.jpg",
       "stories/2026-11-17/silver-bar-1kg-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-17 22:21",
+    "product_no": 6217,
+    "name": "24K 순금 펜던트 해바라기 메달 3.75g",
+    "type": "jewelry",
+    "price": 832400,
+    "media_ids": [
+      "18348581677255717",
+      "17958234936034351",
+      "17959489263319590"
+    ],
+    "files": [
+      "stories/2026-11-17/sunflower-pendant-1.jpg",
+      "stories/2026-11-17/sunflower-pendant-2.jpg",
+      "stories/2026-11-17/sunflower-pendant-3.jpg"
+    ]
   }
 ]
