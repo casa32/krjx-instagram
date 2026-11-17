@@ -1,3 +1,27 @@
 [
- {"kst":"2026-11-16 19:12","type":"jewelry","product_no":6214,"name":"24K 순금 루미나 플라워 목걸이","files":["feed/2026-11-16-jewelry/lumina-1.jpg","feed/2026-11-16-jewelry/lumina-2.jpg","feed/2026-11-16-jewelry/lumina-3.jpg","feed/2026-11-16-jewelry/lumina-4.jpg"]}
+ {
+  "kst": "2026-11-16 19:12",
+  "type": "jewelry",
+  "product_no": 6214,
+  "name": "24K 순금 루미나 플라워 목걸이",
+  "files": [
+   "feed/2026-11-16-jewelry/lumina-1.jpg",
+   "feed/2026-11-16-jewelry/lumina-2.jpg",
+   "feed/2026-11-16-jewelry/lumina-3.jpg",
+   "feed/2026-11-16-jewelry/lumina-4.jpg"
+  ]
+ },
+ {
+  "kst": "2026-11-17 19:50",
+  "type": "jewelry",
+  "product_no": 5053,
+  "name": "24K 순금 장미 침 귀걸이",
+  "media_id": "18179671360453703",
+  "files": [
+   "feed/2026-11-17-jewelry/rose-earring-1.jpg",
+   "feed/2026-11-17-jewelry/rose-earring-2.jpg",
+   "feed/2026-11-17-jewelry/rose-earring-3.jpg",
+   "feed/2026-11-17-jewelry/rose-earring-4.jpg"
+  ]
+ }
 ]
