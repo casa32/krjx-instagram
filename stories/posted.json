@@ -1,124 +1,141 @@
 [
- {
-  "kst": "2026-11-16 18:45",
-  "product_no": 5926,
-  "name": "24K 원터치 빛살 컷팅 나비 귀걸이 3.75g",
-  "files": [
-   "stories/2026-11-16/earring-1.jpg",
-   "stories/2026-11-16/earring-2.jpg",
-   "stories/2026-11-16/earring-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-16 18:45",
-  "product_no": 6476,
-  "name": "24K 순금 9999 골드바 3.75g",
-  "files": [
-   "stories/2026-11-16/goldbar-1.jpg",
-   "stories/2026-11-16/goldbar-2.jpg",
-   "stories/2026-11-16/goldbar-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-16 19:05",
-  "product_no": 6214,
-  "name": "24K 순금 목걸이 루미나 플라워 3.75g+18K 잠금장식",
-  "price": 927700,
-  "media_ids": [
-   "18132663643773738",
-   "17961453201016204",
-   "18121032595994453",
-   "18145243846619518"
-  ],
-  "files": [
-   "stories/2026-11-16/lumina-necklace-1.jpg",
-   "stories/2026-11-16/lumina-necklace-2.jpg",
-   "stories/2026-11-16/lumina-necklace-3.jpg",
-   "stories/2026-11-16/lumina-necklace-3b.jpg"
-  ]
- },
- {
-  "kst": "2026-11-16 22:10",
-  "product_no": 4490,
-  "name": "24K 순금 행운의 열쇠 3.75g",
-  "type": "souvenir",
-  "price": 756800,
-  "media_ids": [
-   "17916365724284624",
-   "18361319164222079",
-   "17946520629388234"
-  ],
-  "files": [
-   "stories/2026-11-16/lucky-key-1.jpg",
-   "stories/2026-11-16/lucky-key-2.jpg",
-   "stories/2026-11-16/lucky-key-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 01:20",
-  "product_no": 6460,
-  "name": "24K 순금 999.9 십이지신 골드바 3.75g",
-  "type": "goldbar",
-  "price": 743700,
-  "media_ids": [
-   "17913995850483521",
-   "17963106339257109",
-   "18020141591955661"
-  ],
-  "files": [
-   "stories/2026-11-17/zodiac-goldbar-1.jpg",
-   "stories/2026-11-17/zodiac-goldbar-2.jpg",
-   "stories/2026-11-17/zodiac-goldbar-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 04:16",
-  "product_no": 6300,
-  "name": "24K 순금 두줄 사각 반지 3.75g",
-  "type": "jewelry",
-  "price": 811000,
-  "media_ids": [
-   "18317947861304765",
-   "18102888041420198"
-  ],
-  "files": [
-   "stories/2026-11-17/square-ring-1.jpg",
-   "stories/2026-11-17/square-ring-2.jpg"
-  ],
-  "note": "3번째 장 미게시 — 사용자가 괜찮다고 함(재게시 안 함)"
- },
- {
-  "kst": "2026-11-17 07:20",
-  "product_no": 4437,
-  "name": "24K 순금 거북이 3.75g",
-  "type": "souvenir",
-  "price": 758000,
-  "media_ids": [
-   "18018087857973303",
-   "18455123734135513",
-   "17893946871455383"
-  ],
-  "files": [
-   "stories/2026-11-17/turtle-1.jpg",
-   "stories/2026-11-17/turtle-2.jpg",
-   "stories/2026-11-17/turtle-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 10:20",
-  "product_no": 6497,
-  "name": "24K 999.9 주물 골드바 10g (콩알금)",
-  "type": "goldbar",
-  "price": 1939500,
-  "media_ids": [
-   "18049374992684051",
-   "17933870718421266",
-   "18171713836477354"
-  ],
-  "files": [
-   "stories/2026-11-17/cast-gold-10g-1.jpg",
-   "stories/2026-11-17/cast-gold-10g-2.jpg",
-   "stories/2026-11-17/cast-gold-10g-3.jpg"
-  ]
- }
+  {
+    "kst": "2026-11-16 18:45",
+    "product_no": 5926,
+    "name": "24K 원터치 빛살 컷팅 나비 귀걸이 3.75g",
+    "files": [
+      "stories/2026-11-16/earring-1.jpg",
+      "stories/2026-11-16/earring-2.jpg",
+      "stories/2026-11-16/earring-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-16 18:45",
+    "product_no": 6476,
+    "name": "24K 순금 9999 골드바 3.75g",
+    "files": [
+      "stories/2026-11-16/goldbar-1.jpg",
+      "stories/2026-11-16/goldbar-2.jpg",
+      "stories/2026-11-16/goldbar-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-16 19:05",
+    "product_no": 6214,
+    "name": "24K 순금 목걸이 루미나 플라워 3.75g+18K 잠금장식",
+    "price": 927700,
+    "media_ids": [
+      "18132663643773738",
+      "17961453201016204",
+      "18121032595994453",
+      "18145243846619518"
+    ],
+    "files": [
+      "stories/2026-11-16/lumina-necklace-1.jpg",
+      "stories/2026-11-16/lumina-necklace-2.jpg",
+      "stories/2026-11-16/lumina-necklace-3.jpg",
+      "stories/2026-11-16/lumina-necklace-3b.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-16 22:10",
+    "product_no": 4490,
+    "name": "24K 순금 행운의 열쇠 3.75g",
+    "type": "souvenir",
+    "price": 756800,
+    "media_ids": [
+      "17916365724284624",
+      "18361319164222079",
+      "17946520629388234"
+    ],
+    "files": [
+      "stories/2026-11-16/lucky-key-1.jpg",
+      "stories/2026-11-16/lucky-key-2.jpg",
+      "stories/2026-11-16/lucky-key-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 01:20",
+    "product_no": 6460,
+    "name": "24K 순금 999.9 십이지신 골드바 3.75g",
+    "type": "goldbar",
+    "price": 743700,
+    "media_ids": [
+      "17913995850483521",
+      "17963106339257109",
+      "18020141591955661"
+    ],
+    "files": [
+      "stories/2026-11-17/zodiac-goldbar-1.jpg",
+      "stories/2026-11-17/zodiac-goldbar-2.jpg",
+      "stories/2026-11-17/zodiac-goldbar-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 04:16",
+    "product_no": 6300,
+    "name": "24K 순금 두줄 사각 반지 3.75g",
+    "type": "jewelry",
+    "price": 811000,
+    "media_ids": [
+      "18317947861304765",
+      "18102888041420198"
+    ],
+    "files": [
+      "stories/2026-11-17/square-ring-1.jpg",
+      "stories/2026-11-17/square-ring-2.jpg"
+    ],
+    "note": "3번째 장 미게시 — 사용자가 괜찮다고 함(재게시 안 함)"
+  },
+  {
+    "kst": "2026-11-17 07:20",
+    "product_no": 4437,
+    "name": "24K 순금 거북이 3.75g",
+    "type": "souvenir",
+    "price": 758000,
+    "media_ids": [
+      "18018087857973303",
+      "18455123734135513",
+      "17893946871455383"
+    ],
+    "files": [
+      "stories/2026-11-17/turtle-1.jpg",
+      "stories/2026-11-17/turtle-2.jpg",
+      "stories/2026-11-17/turtle-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 10:20",
+    "product_no": 6497,
+    "name": "24K 999.9 주물 골드바 10g (콩알금)",
+    "type": "goldbar",
+    "price": 1939500,
+    "media_ids": [
+      "18049374992684051",
+      "17933870718421266",
+      "18171713836477354"
+    ],
+    "files": [
+      "stories/2026-11-17/cast-gold-10g-1.jpg",
+      "stories/2026-11-17/cast-gold-10g-2.jpg",
+      "stories/2026-11-17/cast-gold-10g-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 13:18",
+    "product_no": 5053,
+    "name": "24K 순금 침 귀걸이 장미 1.875g",
+    "type": "jewelry",
+    "price": 441800,
+    "media_ids": [
+      "18116001920591727",
+      "17993376347864600",
+      "18083632139353021"
+    ],
+    "files": [
+      "stories/2026-11-17/rose-earring-1.jpg",
+      "stories/2026-11-17/rose-earring-2.jpg",
+      "stories/2026-11-17/rose-earring-3.jpg"
+    ]
+  }
 ]
