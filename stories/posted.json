@@ -137,5 +137,22 @@
       "stories/2026-11-17/rose-earring-2.jpg",
       "stories/2026-11-17/rose-earring-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-17 16:18",
+    "product_no": 4381,
+    "name": "24K 순금 럭키 문 코인 0.3g 카드",
+    "type": "keepsake",
+    "price": 79900,
+    "media_ids": [
+      "18103652342645644",
+      "18110081803979594",
+      "18191110183373523"
+    ],
+    "files": [
+      "stories/2026-11-17/lucky-moon-1.jpg",
+      "stories/2026-11-17/lucky-moon-2.jpg",
+      "stories/2026-11-17/lucky-moon-3.jpg"
+    ]
   }
 ]
