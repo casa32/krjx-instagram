@@ -154,5 +154,22 @@
       "stories/2026-11-17/lucky-moon-2.jpg",
       "stories/2026-11-17/lucky-moon-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-17 19:17",
+    "product_no": 6420,
+    "name": "1kg(1000g) 프레스 실버바 999.9 한귀보 포나인 은바",
+    "type": "bar",
+    "price": 2457700,
+    "media_ids": [
+      "17981905170136844",
+      "17916464400286679",
+      "18061418711649603"
+    ],
+    "files": [
+      "stories/2026-11-17/silver-bar-1kg-1.jpg",
+      "stories/2026-11-17/silver-bar-1kg-2.jpg",
+      "stories/2026-11-17/silver-bar-1kg-3.jpg"
+    ]
   }
 ]
