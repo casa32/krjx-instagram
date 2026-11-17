@@ -103,5 +103,22 @@
    "stories/2026-11-17/turtle-2.jpg",
    "stories/2026-11-17/turtle-3.jpg"
   ]
+ },
+ {
+  "kst": "2026-11-17 10:20",
+  "product_no": 6497,
+  "name": "24K 999.9 주물 골드바 10g (콩알금)",
+  "type": "goldbar",
+  "price": 1939500,
+  "media_ids": [
+   "18049374992684051",
+   "17933870718421266",
+   "18171713836477354"
+  ],
+  "files": [
+   "stories/2026-11-17/cast-gold-10g-1.jpg",
+   "stories/2026-11-17/cast-gold-10g-2.jpg",
+   "stories/2026-11-17/cast-gold-10g-3.jpg"
+  ]
  }
 ]
