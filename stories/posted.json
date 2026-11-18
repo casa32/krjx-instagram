@@ -188,5 +188,22 @@
       "stories/2026-11-17/sunflower-pendant-2.jpg",
       "stories/2026-11-17/sunflower-pendant-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-18 10:16",
+    "product_no": 4492,
+    "name": "24K 순금 카드 행운의 2달러 3.75g",
+    "type": "keepsake",
+    "price": 759100,
+    "media_ids": [
+      "18154060366548436",
+      "17996995803052479",
+      "17964238170249335"
+    ],
+    "files": [
+      "stories/2026-11-18/lucky-2dollar-1.jpg",
+      "stories/2026-11-18/lucky-2dollar-2.jpg",
+      "stories/2026-11-18/lucky-2dollar-3.jpg"
+    ]
   }
 ]
