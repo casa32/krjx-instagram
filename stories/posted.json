@@ -205,5 +205,22 @@
       "stories/2026-11-18/lucky-2dollar-2.jpg",
       "stories/2026-11-18/lucky-2dollar-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-18 13:17",
+    "product_no": 6783,
+    "name": "24K 순금 액막이 명태 0.1g 한귀보 미니골드바",
+    "type": "bar",
+    "price": 60900,
+    "media_ids": [
+      "18105264383641813",
+      "18119743106521471",
+      "17955714384344064"
+    ],
+    "files": [
+      "stories/2026-11-18/lucky-pollack-1.jpg",
+      "stories/2026-11-18/lucky-pollack-2.jpg",
+      "stories/2026-11-18/lucky-pollack-3.jpg"
+    ]
   }
 ]
