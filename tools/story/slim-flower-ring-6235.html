@@ -1,0 +1,121 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Noto+Sans+KR:wght@500;700;800;900&family=Noto+Serif+KR:wght@500;700;900&family=Cormorant+Garamond:ital,wght@1,500;1,600&display=swap">
+<style>
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden}
+body{position:relative;color:#f6efe6;font-family:"Noto Sans KR",sans-serif;
+  background:radial-gradient(60% 32% at 50% 50%,rgba(232,186,150,.24),rgba(232,186,150,0) 70%),
+   radial-gradient(80% 40% at 50% 100%,rgba(70,40,70,.55),rgba(0,0,0,0) 70%),
+   linear-gradient(180deg,#0c0a0b 0%,#110f18 42%,#16142a 78%,#1b1631 100%)}
+.s{display:none;position:absolute;inset:0}
+.dust{position:absolute;inset:0}
+.frame{position:absolute;inset:44px;border:1.5px solid rgba(222,186,140,.42);border-radius:6px;z-index:5;pointer-events:none}
+.c{position:absolute;left:0;right:0;text-align:center}
+.logo{top:205px;z-index:6}.logo img{height:44px}
+.ey{font:italic 600 46px "Cormorant Garamond",serif;letter-spacing:.12em;color:#e6c49a}
+.gold{background:linear-gradient(180deg,#f8e2b8,#dcb47a 55%,#b0834a);-webkit-background-clip:text;background-clip:text;color:transparent}
+.serif{font-family:"Noto Serif KR",serif;font-weight:700;letter-spacing:-.02em}
+/* 1 */
+#s1 .ey{top:330px}
+#s1 .h{top:400px;font-size:104px;line-height:1.2}
+#s1 .prod{position:absolute;left:50%;top:760px;width:960px;transform:translateX(-50%);filter:drop-shadow(0 34px 36px rgba(0,0,0,.7)) drop-shadow(0 0 70px rgba(240,200,140,.35))}
+#s1 .name{top:1340px;font:700 40px "Noto Sans KR";color:#e8dccd}
+#s1 .name small{display:block;margin-top:12px;font:600 30px Montserrat;letter-spacing:.2em;color:#cdb08a}
+#s1 .line{top:1500px;left:470px;right:470px;height:2px;background:#d8b07a}
+/* 2 */
+#s2 .photo{position:absolute;left:0;right:0;top:0;height:1060px;overflow:hidden}
+#s2 .photo img{width:100%;height:100%;object-fit:cover;object-position:50% 38%}
+#s2 .photo::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(12,10,11,.55) 0%,rgba(12,10,11,0) 22%,rgba(12,10,11,0) 60%,#110f18 100%)}
+#s2 .h{top:1010px;font-size:76px;line-height:1.25}
+#s2 .list{position:absolute;left:110px;right:110px;top:1225px;display:grid;gap:30px}
+#s2 .it{display:grid;grid-template-columns:72px 1fr;gap:28px;align-items:center}
+#s2 .it i{width:72px;height:72px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(160deg,#f0d3a2,#c79c62);color:#20160a;font:800 32px Montserrat;font-style:normal}
+#s2 .it b{display:block;font:800 44px "Noto Sans KR";letter-spacing:-.02em}
+#s2 .it span{display:block;margin-top:4px;font:600 30px "Noto Sans KR";color:#c8bdb1}
+/* 3 */
+#s3 .ey{top:300px}
+#s3 .h{top:368px;font-size:96px;line-height:1.2}
+#s3 .pic{position:absolute;left:150px;right:150px;top:640px;height:560px;border-radius:30px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.6);outline:1.5px solid rgba(230,196,154,.55);outline-offset:10px}
+#s3 .pic img{width:100%;height:100%;object-fit:cover;object-position:50% 50%}
+#s3 .inc{position:absolute;left:96px;right:96px;top:1260px;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+#s3 .inc div{text-align:center;border:1.5px solid rgba(222,186,140,.5);border-radius:20px;padding:22px 6px 20px;background:linear-gradient(180deg,rgba(222,186,140,.12),rgba(222,186,140,.02))}
+#s3 .inc svg{width:64px;height:64px}
+#s3 .inc b{display:block;margin-top:10px;font:800 32px "Noto Sans KR"}
+#s3 .price{top:1475px}
+#s3 .price .v{font:800 96px Montserrat;letter-spacing:-.02em;line-height:1}
+#s3 .price .v span{font:800 46px "Noto Sans KR";margin-left:8px}
+#s3 .price .note{margin-top:14px;font:600 26px "Noto Sans KR";color:#a49aa0}
+#s3 .cta{top:1650px}
+#s3 .cta span{display:inline-block;padding:20px 46px;border-radius:999px;background:linear-gradient(180deg,#f0d3a2,#c99d63);color:#1d1409;font:800 34px "Noto Sans KR"}
+
+#s1 .prod{top:640px;width:auto;height:820px;-webkit-mask:linear-gradient(180deg,transparent 0%,#000 22%);mask:linear-gradient(180deg,transparent 0%,#000 22%)}
+#s1 .name{top:1520px}
+#s1 .line{top:1660px}
+#s2 .photo img{object-position:50% 45%}
+#s3 .pic img{object-position:50% 60%}
+#s3 .price .note{line-height:1.5}
+#s3 .spec div{padding:26px 6px 24px}
+#s3 .spec small{display:block;font:600 26px "Noto Sans KR";color:#cdb08a}
+#s3 .spec b{margin-top:8px;font:800 38px "Noto Sans KR"}
+#s3 .h{font-size:84px}
+</style></head><body>
+<canvas class="dust" id="dust" width="1080" height="1920"></canvas>
+<div class="frame"></div>
+<div class="c logo"><img src="logo-wh.png" alt="한국귀금속보석거래소"></div>
+
+<style>/* safe-zone v2 (2026-11-18): key content inside y 250–1670 */
+#s3 .pic{top:615px!important;height:500px!important}
+#s3 .inc{top:1170px!important}
+#s3 .price{top:1345px!important}
+#s3 .cta{top:1560px!important}
+.logo{top:262px!important}
+#s1 .ey{top:345px!important}
+#s1 .h{top:412px!important}
+#s3 .ey{top:325px!important}
+#s3 .h{top:392px!important}
+#s1 .card{top:705px!important;height:760px!important}
+#s2 .list{top:1240px!important;gap:24px!important}
+#s1 .name{top:1490px!important}
+#s1 .line{display:none}
+#s1 .follow{position:absolute;left:0;right:0;top:1618px;text-align:center;font:600 27px "Noto Sans KR";color:#cdb08a;letter-spacing:.02em;z-index:5}
+</style>
+<div class="s" id="s1">
+  <div class="c ey">Slim flower</div>
+  <div class="c h serif">여리여리한 슬림 라인<br><span class="gold">순금 플라워 반지</span></div>
+  <img class="prod" src="cut.png" alt="" style="height:auto;width:760px;top:720px;-webkit-mask:none;mask:none">
+  <div class="c name">24K 순금 슬림 플라워 반지<small>1.875g · Au 99.5%</small></div>
+  <div class="c line"></div>
+  <div class="follow">팔로우하고 매일 새 순금 소식 받기 · 10·13·16·19·22시</div>
+</div>
+
+<div class="s" id="s2">
+  <div class="photo"><img src="02.jpg" alt=""></div><div style="position:absolute;left:0;right:0;top:0;height:460px;background:linear-gradient(180deg,rgba(12,10,11,.8) 0%,rgba(12,10,11,.5) 45%,rgba(12,10,11,0) 100%);z-index:2"></div>
+  <div class="c h serif">부담 없이 매일<br><span class="gold">손끝의 순금 포인트</span></div>
+  <div class="list" style="top:1290px">
+    <div class="it"><i>1</i><div><b>섬세한 플라워 디테일</b><span>슬림한 라인 위에 더했어요</span></div></div>
+    <div class="it"><i>2</i><div><b>폭 약 3mm</b><span>1.875g 기준</span></div></div>
+    <div class="it"><i>3</i><div><b>1.875g · 3.75g</b><span>KS 표준 사이즈(신 사이즈) 기준 제작</span></div></div>
+  </div>
+</div>
+
+<div class="s" id="s3">
+  <div class="c ey">Product info</div>
+  <div class="c h serif">섬세한 플라워 디테일<br><span class="gold">24K 순금 슬림 반지</span></div>
+  <div class="pic"><img src="01.jpg" alt=""></div>
+  <div class="inc spec">
+    <div><small>함량</small><b>24K 99.5%</b></div>
+    <div><small>제작 기간</small><b>7~10일</b></div>
+    <div><small>보증 기간</small><b>1년</b></div>
+  </div>
+  <div class="c price"><div class="v">416,800<span>원</span></div><div class="note">1.875g · 11월 19일 기준 · 금 시세에 따라 바뀔 수 있어요<br>제작 기간은 주말·공휴일을 빼고 셈해요</div></div>
+  <div class="c cta"><span>링크 눌러 바로 구매하기</span></div>
+</div>
+<script>
+const n=+(new URLSearchParams(location.search).get('n')||1);
+document.getElementById('s'+n).style.display='block';
+let s=11+n;const r=()=>(s=(s*16807)%2147483647)/2147483647;
+const c=document.getElementById('dust').getContext('2d');
+for(let i=0;i<70;i++){const x=r()*1080,y=330+r()*1250,rad=1+r()*(r()<.15?9:3),a=.1+r()*.4;
+  const g=c.createRadialGradient(x,y,0,x,y,rad*2.4);g.addColorStop(0,`rgba(246,214,176,${a})`);g.addColorStop(1,'rgba(246,214,176,0)');
+  c.fillStyle=g;c.beginPath();c.arc(x,y,rad*2.4,0,7);c.fill();}
+</script>
+</body></html>
