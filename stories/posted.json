@@ -392,5 +392,22 @@
    "stories/2026-11-20/turtle-necklace-2.jpg",
    "stories/2026-11-20/turtle-necklace-3.jpg"
   ]
+ },
+ {
+  "kst": "2026-11-20 16:20",
+  "product_no": 4404,
+  "name": "24K 순금 돼지 18.75g",
+  "type": "keepsake",
+  "price": 3447700,
+  "media_ids": [
+   "18019418045975268",
+   "18109715515973916",
+   "18081880400406040"
+  ],
+  "files": [
+   "stories/2026-11-20/golden-pig-1.jpg",
+   "stories/2026-11-20/golden-pig-2.jpg",
+   "stories/2026-11-20/golden-pig-3.jpg"
+  ]
  }
 ]
