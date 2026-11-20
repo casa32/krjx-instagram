@@ -358,5 +358,22 @@
    "stories/2026-11-19/golden-horse-2.jpg",
    "stories/2026-11-19/golden-horse-3.jpg"
   ]
+ },
+ {
+  "kst": "2026-11-20 10:25",
+  "product_no": 6583,
+  "name": "24K 순금 한국 우표 1.875g 카드 미니골드바",
+  "type": "bar",
+  "price": 378400,
+  "media_ids": [
+   "18111135430951186",
+   "18114353249183253",
+   "18140630500634744"
+  ],
+  "files": [
+   "stories/2026-11-20/korea-stamp-1.jpg",
+   "stories/2026-11-20/korea-stamp-2.jpg",
+   "stories/2026-11-20/korea-stamp-3.jpg"
+  ]
  }
 ]
