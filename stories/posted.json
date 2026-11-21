@@ -443,5 +443,22 @@
    "stories/2026-11-20/mini-goldbar-necklace-2.jpg",
    "stories/2026-11-20/mini-goldbar-necklace-3.jpg"
   ]
+ },
+ {
+  "kst": "2026-11-21 10:20",
+  "product_no": 4481,
+  "name": "24K 순금 카드 행운의 열쇠 1.875g",
+  "type": "keepsake",
+  "price": 368000,
+  "media_ids": [
+   "17957232519324961",
+   "18116986009851504",
+   "18131985616856182"
+  ],
+  "files": [
+   "stories/2026-11-21/luck-key-card-1.jpg",
+   "stories/2026-11-21/luck-key-card-2.jpg",
+   "stories/2026-11-21/luck-key-card-3.jpg"
+  ]
  }
 ]
