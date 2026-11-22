@@ -545,5 +545,22 @@
    "stories/2026-11-22/toad-ring-2.jpg",
    "stories/2026-11-22/toad-ring-3.jpg"
   ]
+ },
+ {
+  "kst": "2026-11-22 13:20",
+  "product_no": 4467,
+  "name": "24K 순금 토끼 3.75g",
+  "type": "keepsake",
+  "price": 703600,
+  "media_ids": [
+   "18215001352368191",
+   "18137369821748570",
+   "18121021088036866"
+  ],
+  "files": [
+   "stories/2026-11-22/gold-rabbit-1.jpg",
+   "stories/2026-11-22/gold-rabbit-2.jpg",
+   "stories/2026-11-22/gold-rabbit-3.jpg"
+  ]
  }
 ]
