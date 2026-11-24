@@ -1,127 +1,147 @@
 [
- {
-  "kst": "2026-11-16 19:12",
-  "type": "jewelry",
-  "product_no": 6214,
-  "name": "24K 순금 루미나 플라워 목걸이",
-  "files": [
-   "feed/2026-11-16-jewelry/lumina-1.jpg",
-   "feed/2026-11-16-jewelry/lumina-2.jpg",
-   "feed/2026-11-16-jewelry/lumina-3.jpg",
-   "feed/2026-11-16-jewelry/lumina-4.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 19:50",
-  "type": "jewelry",
-  "product_no": 5053,
-  "name": "24K 순금 장미 침 귀걸이",
-  "media_id": "18179671360453703",
-  "files": [
-   "feed/2026-11-17-jewelry/rose-earring-1.jpg",
-   "feed/2026-11-17-jewelry/rose-earring-2.jpg",
-   "feed/2026-11-17-jewelry/rose-earring-3.jpg",
-   "feed/2026-11-17-jewelry/rose-earring-4.jpg"
-  ]
- },
- {
-  "kst": "2026-11-18 19:53",
-  "type": "jewelry",
-  "product_no": 6304,
-  "name": "24K 순금 플라워 볼 물고기 매듭끈 팔찌 1.875g",
-  "media_id": "18091091240270756",
-  "hashtags": [
-   "#순금팔찌",
-   "#24k주얼리",
-   "#금팔찌",
-   "#종로귀금속",
-   "#한국귀금속보석거래소"
-  ],
-  "local_tag": "#종로귀금속",
-  "files": [
-   "feed/2026-11-18-jewelry/knot-bracelet-1.jpg",
-   "feed/2026-11-18-jewelry/knot-bracelet-2.jpg",
-   "feed/2026-11-18-jewelry/knot-bracelet-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-19 19:52",
-  "type": "jewelry",
-  "product_no": 6220,
-  "name": "24K 순금 트리플 링 목걸이 3.75g",
-  "media_id": "17969973360208323",
-  "hashtags": [
-   "#순금목걸이",
-   "#24k주얼리",
-   "#금목걸이",
-   "#종로3가",
-   "#한국귀금속보석거래소"
-  ],
-  "local_tag": "#종로3가",
-  "files": [
-   "feed/2026-11-19-jewelry/triple-ring-1.jpg",
-   "feed/2026-11-19-jewelry/triple-ring-2.jpg",
-   "feed/2026-11-19-jewelry/triple-ring-3.jpg",
-   "feed/2026-11-19-jewelry/triple-ring-4.jpg"
-  ]
- },
- {
-  "kst": "2026-11-20 19:50",
-  "product_no": 5867,
-  "name": "24K 순금 목걸이 거북이 체인 3.75g+18K 잠금장식",
-  "media_id": "18651003571021100",
-  "files": [
-   "feed/2026-11-20-jewelry/01.jpg",
-   "feed/2026-11-20-jewelry/02.jpg",
-   "feed/2026-11-20-jewelry/03.jpg",
-   "feed/2026-11-20-jewelry/04.jpg"
-  ],
-  "hashtags": [
-   "#순금목걸이",
-   "#24k주얼리",
-   "#금목걸이",
-   "#종로금은방",
-   "#한국귀금속보석거래소"
-  ],
-  "local_tag": "#종로금은방"
- },
- {
-  "kst": "2026-11-21 19:50",
-  "product_no": 6128,
-  "name": "24K 순금 펜던트 행운의 잉어 메달 3.75g",
-  "media_id": "17947142388086663",
-  "files": [
-   "feed/2026-11-21-jewelry/01.jpg",
-   "feed/2026-11-21-jewelry/02.jpg",
-   "feed/2026-11-21-jewelry/03.jpg"
-  ],
-  "hashtags": [
-   "#순금펜던트",
-   "#24k주얼리",
-   "#금목걸이",
-   "#종로금거래소",
-   "#한국귀금속보석거래소"
-  ],
-  "local_tag": "#종로금거래소"
- },
- {
-  "kst": "2026-11-22 19:50",
-  "product_no": 6546,
-  "name": "24K 순금 목걸이 빛살 컷팅 부엉이 3.75g+18K 잠금장식",
-  "media_id": "18122003251755449",
-  "files": [
-   "feed/2026-11-22-jewelry/01.jpg",
-   "feed/2026-11-22-jewelry/02.jpg",
-   "feed/2026-11-22-jewelry/03.jpg",
-   "feed/2026-11-22-jewelry/04.jpg"
-  ],
-  "hashtags": [
-   "#부엉이목걸이",
-   "#순금목걸이",
-   "#24k주얼리",
-   "#종로주얼리",
-   "#한국귀금속보석거래소"
-  ],
-  "local_tag": "#종로주얼리"
- }
+  {
+    "kst": "2026-11-16 19:12",
+    "type": "jewelry",
+    "product_no": 6214,
+    "name": "24K 순금 루미나 플라워 목걸이",
+    "files": [
+      "feed/2026-11-16-jewelry/lumina-1.jpg",
+      "feed/2026-11-16-jewelry/lumina-2.jpg",
+      "feed/2026-11-16-jewelry/lumina-3.jpg",
+      "feed/2026-11-16-jewelry/lumina-4.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 19:50",
+    "type": "jewelry",
+    "product_no": 5053,
+    "name": "24K 순금 장미 침 귀걸이",
+    "media_id": "18179671360453703",
+    "files": [
+      "feed/2026-11-17-jewelry/rose-earring-1.jpg",
+      "feed/2026-11-17-jewelry/rose-earring-2.jpg",
+      "feed/2026-11-17-jewelry/rose-earring-3.jpg",
+      "feed/2026-11-17-jewelry/rose-earring-4.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-18 19:53",
+    "type": "jewelry",
+    "product_no": 6304,
+    "name": "24K 순금 플라워 볼 물고기 매듭끈 팔찌 1.875g",
+    "media_id": "18091091240270756",
+    "hashtags": [
+      "#순금팔찌",
+      "#24k주얼리",
+      "#금팔찌",
+      "#종로귀금속",
+      "#한국귀금속보석거래소"
+    ],
+    "local_tag": "#종로귀금속",
+    "files": [
+      "feed/2026-11-18-jewelry/knot-bracelet-1.jpg",
+      "feed/2026-11-18-jewelry/knot-bracelet-2.jpg",
+      "feed/2026-11-18-jewelry/knot-bracelet-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-19 19:52",
+    "type": "jewelry",
+    "product_no": 6220,
+    "name": "24K 순금 트리플 링 목걸이 3.75g",
+    "media_id": "17969973360208323",
+    "hashtags": [
+      "#순금목걸이",
+      "#24k주얼리",
+      "#금목걸이",
+      "#종로3가",
+      "#한국귀금속보석거래소"
+    ],
+    "local_tag": "#종로3가",
+    "files": [
+      "feed/2026-11-19-jewelry/triple-ring-1.jpg",
+      "feed/2026-11-19-jewelry/triple-ring-2.jpg",
+      "feed/2026-11-19-jewelry/triple-ring-3.jpg",
+      "feed/2026-11-19-jewelry/triple-ring-4.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-20 19:50",
+    "product_no": 5867,
+    "name": "24K 순금 목걸이 거북이 체인 3.75g+18K 잠금장식",
+    "media_id": "18651003571021100",
+    "files": [
+      "feed/2026-11-20-jewelry/01.jpg",
+      "feed/2026-11-20-jewelry/02.jpg",
+      "feed/2026-11-20-jewelry/03.jpg",
+      "feed/2026-11-20-jewelry/04.jpg"
+    ],
+    "hashtags": [
+      "#순금목걸이",
+      "#24k주얼리",
+      "#금목걸이",
+      "#종로금은방",
+      "#한국귀금속보석거래소"
+    ],
+    "local_tag": "#종로금은방"
+  },
+  {
+    "kst": "2026-11-21 19:50",
+    "product_no": 6128,
+    "name": "24K 순금 펜던트 행운의 잉어 메달 3.75g",
+    "media_id": "17947142388086663",
+    "files": [
+      "feed/2026-11-21-jewelry/01.jpg",
+      "feed/2026-11-21-jewelry/02.jpg",
+      "feed/2026-11-21-jewelry/03.jpg"
+    ],
+    "hashtags": [
+      "#순금펜던트",
+      "#24k주얼리",
+      "#금목걸이",
+      "#종로금거래소",
+      "#한국귀금속보석거래소"
+    ],
+    "local_tag": "#종로금거래소"
+  },
+  {
+    "kst": "2026-11-22 19:50",
+    "product_no": 6546,
+    "name": "24K 순금 목걸이 빛살 컷팅 부엉이 3.75g+18K 잠금장식",
+    "media_id": "18122003251755449",
+    "files": [
+      "feed/2026-11-22-jewelry/01.jpg",
+      "feed/2026-11-22-jewelry/02.jpg",
+      "feed/2026-11-22-jewelry/03.jpg",
+      "feed/2026-11-22-jewelry/04.jpg"
+    ],
+    "hashtags": [
+      "#부엉이목걸이",
+      "#순금목걸이",
+      "#24k주얼리",
+      "#종로주얼리",
+      "#한국귀금속보석거래소"
+    ],
+    "local_tag": "#종로주얼리"
+  },
+  {
+    "kst": "2026-11-24 19:50",
+    "product_no": 6262,
+    "name": "24K 순금 플라워 컷팅 거북이 펜던트 3.75g",
+    "media_id": "17898544758613812",
+    "files": [
+      "feed/2026-11-24-jewelry/01.jpg",
+      "feed/2026-11-24-jewelry/02.jpg",
+      "feed/2026-11-24-jewelry/03.jpg",
+      "feed/2026-11-24-jewelry/04.jpg"
+    ],
+    "hashtags": [
+      "#거북이펜던트",
+      "#순금펜던트",
+      "#24k주얼리",
+      "#종로귀금속",
+      "#한국귀금속보석거래소"
+    ],
+    "local_tag": "#종로귀금속"
+  }
 ]
