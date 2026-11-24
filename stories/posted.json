@@ -630,5 +630,22 @@
       "stories/2026-11-24/lucky-pouch-2.jpg",
       "stories/2026-11-24/lucky-pouch-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-24 16:20",
+    "product_no": 6262,
+    "name": "24K 순금 펜던트 플라워 컷팅 거북이 메달 3.75g",
+    "type": "jewelry",
+    "price": 797900,
+    "media_ids": [
+      "18389089852232184",
+      "17964756926996951",
+      "18123985190073042"
+    ],
+    "files": [
+      "stories/2026-11-24/turtle-pendant-1.jpg",
+      "stories/2026-11-24/turtle-pendant-2.jpg",
+      "stories/2026-11-24/turtle-pendant-3.jpg"
+    ]
   }
 ]
