@@ -596,5 +596,22 @@
    "stories/2026-11-22/owl-necklace-2.jpg",
    "stories/2026-11-22/owl-necklace-3.jpg"
   ]
+ },
+ {
+  "kst": "2026-11-24 10:20",
+  "product_no": 4455,
+  "name": "24K 순금 원숭이 3.75g",
+  "type": "keepsake",
+  "price": 719800,
+  "media_ids": [
+   "18122023507768144",
+   "17885996952629622",
+   "18046325648832766"
+  ],
+  "files": [
+   "stories/2026-11-24/gold-monkey-1.jpg",
+   "stories/2026-11-24/gold-monkey-2.jpg",
+   "stories/2026-11-24/gold-monkey-3.jpg"
+  ]
  }
 ]
