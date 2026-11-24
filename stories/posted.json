@@ -1,617 +1,634 @@
 [
- {
-  "kst": "2026-11-16 18:45",
-  "product_no": 5926,
-  "name": "24K 원터치 빛살 컷팅 나비 귀걸이 3.75g",
-  "files": [
-   "stories/2026-11-16/earring-1.jpg",
-   "stories/2026-11-16/earring-2.jpg",
-   "stories/2026-11-16/earring-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-16 18:45",
-  "product_no": 6476,
-  "name": "24K 순금 9999 골드바 3.75g",
-  "files": [
-   "stories/2026-11-16/goldbar-1.jpg",
-   "stories/2026-11-16/goldbar-2.jpg",
-   "stories/2026-11-16/goldbar-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-16 19:05",
-  "product_no": 6214,
-  "name": "24K 순금 목걸이 루미나 플라워 3.75g+18K 잠금장식",
-  "price": 927700,
-  "media_ids": [
-   "18132663643773738",
-   "17961453201016204",
-   "18121032595994453",
-   "18145243846619518"
-  ],
-  "files": [
-   "stories/2026-11-16/lumina-necklace-1.jpg",
-   "stories/2026-11-16/lumina-necklace-2.jpg",
-   "stories/2026-11-16/lumina-necklace-3.jpg",
-   "stories/2026-11-16/lumina-necklace-3b.jpg"
-  ]
- },
- {
-  "kst": "2026-11-16 22:10",
-  "product_no": 4490,
-  "name": "24K 순금 행운의 열쇠 3.75g",
-  "type": "souvenir",
-  "price": 756800,
-  "media_ids": [
-   "17916365724284624",
-   "18361319164222079",
-   "17946520629388234"
-  ],
-  "files": [
-   "stories/2026-11-16/lucky-key-1.jpg",
-   "stories/2026-11-16/lucky-key-2.jpg",
-   "stories/2026-11-16/lucky-key-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 01:20",
-  "product_no": 6460,
-  "name": "24K 순금 999.9 십이지신 골드바 3.75g",
-  "type": "goldbar",
-  "price": 743700,
-  "media_ids": [
-   "17913995850483521",
-   "17963106339257109",
-   "18020141591955661"
-  ],
-  "files": [
-   "stories/2026-11-17/zodiac-goldbar-1.jpg",
-   "stories/2026-11-17/zodiac-goldbar-2.jpg",
-   "stories/2026-11-17/zodiac-goldbar-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 04:16",
-  "product_no": 6300,
-  "name": "24K 순금 두줄 사각 반지 3.75g",
-  "type": "jewelry",
-  "price": 811000,
-  "media_ids": [
-   "18317947861304765",
-   "18102888041420198"
-  ],
-  "files": [
-   "stories/2026-11-17/square-ring-1.jpg",
-   "stories/2026-11-17/square-ring-2.jpg"
-  ],
-  "note": "3번째 장 미게시 — 사용자가 괜찮다고 함(재게시 안 함)"
- },
- {
-  "kst": "2026-11-17 07:20",
-  "product_no": 4437,
-  "name": "24K 순금 거북이 3.75g",
-  "type": "souvenir",
-  "price": 758000,
-  "media_ids": [
-   "18018087857973303",
-   "18455123734135513",
-   "17893946871455383"
-  ],
-  "files": [
-   "stories/2026-11-17/turtle-1.jpg",
-   "stories/2026-11-17/turtle-2.jpg",
-   "stories/2026-11-17/turtle-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 10:20",
-  "product_no": 6497,
-  "name": "24K 999.9 주물 골드바 10g (콩알금)",
-  "type": "goldbar",
-  "price": 1939500,
-  "media_ids": [
-   "18049374992684051",
-   "17933870718421266",
-   "18171713836477354"
-  ],
-  "files": [
-   "stories/2026-11-17/cast-gold-10g-1.jpg",
-   "stories/2026-11-17/cast-gold-10g-2.jpg",
-   "stories/2026-11-17/cast-gold-10g-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 13:18",
-  "product_no": 5053,
-  "name": "24K 순금 침 귀걸이 장미 1.875g",
-  "type": "jewelry",
-  "price": 441800,
-  "media_ids": [
-   "18116001920591727",
-   "17993376347864600",
-   "18083632139353021"
-  ],
-  "files": [
-   "stories/2026-11-17/rose-earring-1.jpg",
-   "stories/2026-11-17/rose-earring-2.jpg",
-   "stories/2026-11-17/rose-earring-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 16:18",
-  "product_no": 4381,
-  "name": "24K 순금 럭키 문 코인 0.3g 카드",
-  "type": "keepsake",
-  "price": 79900,
-  "media_ids": [
-   "18103652342645644",
-   "18110081803979594",
-   "18191110183373523"
-  ],
-  "files": [
-   "stories/2026-11-17/lucky-moon-1.jpg",
-   "stories/2026-11-17/lucky-moon-2.jpg",
-   "stories/2026-11-17/lucky-moon-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 19:17",
-  "product_no": 6420,
-  "name": "1kg(1000g) 프레스 실버바 999.9 한귀보 포나인 은바",
-  "type": "bar",
-  "price": 2457700,
-  "media_ids": [
-   "17981905170136844",
-   "17916464400286679",
-   "18061418711649603"
-  ],
-  "files": [
-   "stories/2026-11-17/silver-bar-1kg-1.jpg",
-   "stories/2026-11-17/silver-bar-1kg-2.jpg",
-   "stories/2026-11-17/silver-bar-1kg-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-17 22:21",
-  "product_no": 6217,
-  "name": "24K 순금 펜던트 해바라기 메달 3.75g",
-  "type": "jewelry",
-  "price": 832400,
-  "media_ids": [
-   "18348581677255717",
-   "17958234936034351",
-   "17959489263319590"
-  ],
-  "files": [
-   "stories/2026-11-17/sunflower-pendant-1.jpg",
-   "stories/2026-11-17/sunflower-pendant-2.jpg",
-   "stories/2026-11-17/sunflower-pendant-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-18 10:16",
-  "product_no": 4492,
-  "name": "24K 순금 카드 행운의 2달러 3.75g",
-  "type": "keepsake",
-  "price": 759100,
-  "media_ids": [
-   "18154060366548436",
-   "17996995803052479",
-   "17964238170249335"
-  ],
-  "files": [
-   "stories/2026-11-18/lucky-2dollar-1.jpg",
-   "stories/2026-11-18/lucky-2dollar-2.jpg",
-   "stories/2026-11-18/lucky-2dollar-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-18 13:17",
-  "product_no": 6783,
-  "name": "24K 순금 액막이 명태 0.1g 한귀보 미니골드바",
-  "type": "bar",
-  "price": 60900,
-  "media_ids": [
-   "18105264383641813",
-   "18119743106521471",
-   "17955714384344064"
-  ],
-  "files": [
-   "stories/2026-11-18/lucky-pollack-1.jpg",
-   "stories/2026-11-18/lucky-pollack-2.jpg",
-   "stories/2026-11-18/lucky-pollack-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-18 16:17",
-  "product_no": 6304,
-  "name": "24K 순금 팔찌 플라워 볼 물고기 매듭끈 1.875g",
-  "type": "jewelry",
-  "price": 446500,
-  "media_ids": [
-   "18113071654910693",
-   "18130857580887624",
-   "18099492959423640"
-  ],
-  "files": [
-   "stories/2026-11-18/knot-bracelet-1.jpg",
-   "stories/2026-11-18/knot-bracelet-2.jpg",
-   "stories/2026-11-18/knot-bracelet-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-18 19:20",
-  "product_no": 4362,
-  "name": "24K 순금 만수무강 효자손 1.875g",
-  "type": "keepsake",
-  "price": 378400,
-  "media_ids": [
-   "18101890097410225",
-   "18101522561105222",
-   "17931271062186304"
-  ],
-  "files": [
-   "stories/2026-11-18/longevity-scratcher-1.jpg",
-   "stories/2026-11-18/longevity-scratcher-2.jpg",
-   "stories/2026-11-18/longevity-scratcher-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-18 22:25",
-  "product_no": 6871,
-  "name": "24K 순금 행운의 부적 0.1g 카드 미니골드바",
-  "type": "bar",
-  "price": 42800,
-  "media_ids": [
-   "18076968758780449",
-   "18114574154194514",
-   "18133707229828953"
-  ],
-  "files": [
-   "stories/2026-11-18/lucky-charm-card-1.jpg",
-   "stories/2026-11-18/lucky-charm-card-2.jpg",
-   "stories/2026-11-18/lucky-charm-card-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-19 10:20",
-  "product_no": 6220,
-  "name": "24K 순금 목걸이 트리플 링 3.75g+18K 잠금장식",
-  "type": "jewelry",
-  "price": 910000,
-  "media_ids": [
-   "17896969185654092",
-   "18077893592775825",
-   "18122537237057653"
-  ],
-  "files": [
-   "stories/2026-11-19/triple-ring-1.jpg",
-   "stories/2026-11-19/triple-ring-2.jpg",
-   "stories/2026-11-19/triple-ring-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-19 13:25",
-  "product_no": 4410,
-  "name": "24K 순금 두꺼비 18.75g",
-  "type": "keepsake",
-  "price": 3617700,
-  "media_ids": [
-   "18120595018955778",
-   "18349035001250019",
-   "18020976296959227"
-  ],
-  "files": [
-   "stories/2026-11-19/golden-toad-1.jpg",
-   "stories/2026-11-19/golden-toad-2.jpg",
-   "stories/2026-11-19/golden-toad-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-19 16:25",
-  "product_no": 6711,
-  "name": "24K 순금 백억 수표 0.1g 카드 미니골드바",
-  "type": "bar",
-  "price": 42600,
-  "media_ids": [
-   "18047471465827952",
-   "18131504725889712",
-   "18417880735094539"
-  ],
-  "files": [
-   "stories/2026-11-19/billion-check-1.jpg",
-   "stories/2026-11-19/billion-check-2.jpg",
-   "stories/2026-11-19/billion-check-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-19 19:25",
-  "product_no": 6235,
-  "name": "24K 순금 반지 슬림 플라워 1.875g",
-  "type": "jewelry",
-  "price": 416800,
-  "media_ids": [
-   "18017405231759068",
-   "18452138557126333",
-   "17913904851309822"
-  ],
-  "files": [
-   "stories/2026-11-19/slim-flower-ring-1.jpg",
-   "stories/2026-11-19/slim-flower-ring-2.jpg",
-   "stories/2026-11-19/slim-flower-ring-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-19 22:25",
-  "product_no": 4416,
-  "name": "24K 순금 말 18.75g",
-  "type": "keepsake",
-  "price": 3611900,
-  "media_ids": [
-   "18108374452998419",
-   "18151769335564245",
-   "17917217568509651"
-  ],
-  "files": [
-   "stories/2026-11-19/golden-horse-1.jpg",
-   "stories/2026-11-19/golden-horse-2.jpg",
-   "stories/2026-11-19/golden-horse-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-20 10:25",
-  "product_no": 6583,
-  "name": "24K 순금 한국 우표 1.875g 카드 미니골드바",
-  "type": "bar",
-  "price": 378400,
-  "media_ids": [
-   "18111135430951186",
-   "18114353249183253",
-   "18140630500634744"
-  ],
-  "files": [
-   "stories/2026-11-20/korea-stamp-1.jpg",
-   "stories/2026-11-20/korea-stamp-2.jpg",
-   "stories/2026-11-20/korea-stamp-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-20 13:25",
-  "product_no": 5867,
-  "name": "24K 순금 목걸이 거북이 체인 3.75g+18K 잠금장식",
-  "type": "jewelry",
-  "price": 823800,
-  "media_ids": [
-   "18240845158320934",
-   "18124854782282738",
-   "18180220708446632"
-  ],
-  "files": [
-   "stories/2026-11-20/turtle-necklace-1.jpg",
-   "stories/2026-11-20/turtle-necklace-2.jpg",
-   "stories/2026-11-20/turtle-necklace-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-20 16:20",
-  "product_no": 4404,
-  "name": "24K 순금 돼지 18.75g",
-  "type": "keepsake",
-  "price": 3447700,
-  "media_ids": [
-   "18019418045975268",
-   "18109715515973916",
-   "18081880400406040"
-  ],
-  "files": [
-   "stories/2026-11-20/golden-pig-1.jpg",
-   "stories/2026-11-20/golden-pig-2.jpg",
-   "stories/2026-11-20/golden-pig-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-20 19:00",
-  "product_no": 6581,
-  "name": "24K 순금 아기 금수저 0.5g 카드 한귀보 미니골드바",
-  "type": "bar",
-  "price": 120200,
-  "media_ids": [
-   "18102528089430484",
-   "18176086066487996",
-   "18030362246875547"
-  ],
-  "files": [
-   "stories/2026-11-20/baby-spoon-1.jpg",
-   "stories/2026-11-20/baby-spoon-2.jpg",
-   "stories/2026-11-20/baby-spoon-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-20 22:20",
-  "product_no": 6127,
-  "name": "24K 순금 목걸이 미니 골드바 3.75g+18K 잠금장식",
-  "type": "jewelry",
-  "price": 875900,
-  "media_ids": [
-   "18203691922339029",
-   "18092274356305292",
-   "18036126851887898"
-  ],
-  "files": [
-   "stories/2026-11-20/mini-goldbar-necklace-1.jpg",
-   "stories/2026-11-20/mini-goldbar-necklace-2.jpg",
-   "stories/2026-11-20/mini-goldbar-necklace-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-21 10:20",
-  "product_no": 4481,
-  "name": "24K 순금 카드 행운의 열쇠 1.875g",
-  "type": "keepsake",
-  "price": 368000,
-  "media_ids": [
-   "17957232519324961",
-   "18116986009851504",
-   "18131985616856182"
-  ],
-  "files": [
-   "stories/2026-11-21/luck-key-card-1.jpg",
-   "stories/2026-11-21/luck-key-card-2.jpg",
-   "stories/2026-11-21/luck-key-card-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-21 13:20",
-  "product_no": 6551,
-  "name": "24K 순금 크리스마스 2달러 0.3g 카드 한귀보 미니골드바",
-  "type": "bar",
-  "price": 75800,
-  "media_ids": [
-   "18386431180240245",
-   "18134191726627537",
-   "18141473050734457"
-  ],
-  "files": [
-   "stories/2026-11-21/xmas-2dollar-1.jpg",
-   "stories/2026-11-21/xmas-2dollar-2.jpg",
-   "stories/2026-11-21/xmas-2dollar-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-21 16:20",
-  "product_no": 6128,
-  "name": "24K 순금 펜던트 행운의 잉어 메달 3.75g",
-  "type": "jewelry",
-  "price": 764600,
-  "media_ids": [
-   "17920165938540548",
-   "18137597075508087",
-   "18115765121613851"
-  ],
-  "files": [
-   "stories/2026-11-21/lucky-carp-1.jpg",
-   "stories/2026-11-21/lucky-carp-2.jpg",
-   "stories/2026-11-21/lucky-carp-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-21 19:20",
-  "product_no": 4389,
-  "name": "24K 순금 부엉이 3.75g",
-  "type": "keepsake",
-  "price": 754500,
-  "media_ids": [
-   "18445306225180666",
-   "18498860704129091",
-   "17893049937687040"
-  ],
-  "files": [
-   "stories/2026-11-21/gold-owl-1.jpg",
-   "stories/2026-11-21/gold-owl-2.jpg",
-   "stories/2026-11-21/gold-owl-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-21 22:20",
-  "product_no": 4372,
-  "name": "24K 순금 럭키 세븐 잭팟 0.3g 카드 한귀보 미니골드바",
-  "type": "bar",
-  "price": 75800,
-  "media_ids": [
-   "18112629803338235",
-   "18060495053572092",
-   "18143888758618595"
-  ],
-  "files": [
-   "stories/2026-11-21/lucky-seven-1.jpg",
-   "stories/2026-11-21/lucky-seven-2.jpg",
-   "stories/2026-11-21/lucky-seven-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-22 10:20",
-  "product_no": 6659,
-  "name": "24K 순금 반지 복 두꺼비 3.75g",
-  "type": "jewelry",
-  "price": 764600,
-  "media_ids": [
-   "18109791302211314",
-   "17906560347604649",
-   "17893915983623614"
-  ],
-  "files": [
-   "stories/2026-11-22/toad-ring-1.jpg",
-   "stories/2026-11-22/toad-ring-2.jpg",
-   "stories/2026-11-22/toad-ring-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-22 13:20",
-  "product_no": 4467,
-  "name": "24K 순금 토끼 3.75g",
-  "type": "keepsake",
-  "price": 703600,
-  "media_ids": [
-   "18215001352368191",
-   "18137369821748570",
-   "18121021088036866"
-  ],
-  "files": [
-   "stories/2026-11-22/gold-rabbit-1.jpg",
-   "stories/2026-11-22/gold-rabbit-2.jpg",
-   "stories/2026-11-22/gold-rabbit-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-22 16:20",
-  "product_no": 4380,
-  "name": "24K 순금 럭키 클로버 코인 0.3g 카드 한귀보 미니골드바",
-  "type": "bar",
-  "price": 75800,
-  "media_ids": [
-   "18101217311397596",
-   "17971764741079109",
-   "18045261887828672"
-  ],
-  "files": [
-   "stories/2026-11-22/lucky-clover-1.jpg",
-   "stories/2026-11-22/lucky-clover-2.jpg",
-   "stories/2026-11-22/lucky-clover-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-22 19:20",
-  "product_no": 6546,
-  "name": "24K 순금 목걸이 빛살 컷팅 부엉이 3.75g+18K 잠금장식",
-  "type": "jewelry",
-  "price": 878300,
-  "media_ids": [
-   "18441823171181156",
-   "18101650265426689",
-   "17980598457151121"
-  ],
-  "files": [
-   "stories/2026-11-22/owl-necklace-1.jpg",
-   "stories/2026-11-22/owl-necklace-2.jpg",
-   "stories/2026-11-22/owl-necklace-3.jpg"
-  ]
- },
- {
-  "kst": "2026-11-24 10:20",
-  "product_no": 4455,
-  "name": "24K 순금 원숭이 3.75g",
-  "type": "keepsake",
-  "price": 719800,
-  "media_ids": [
-   "18122023507768144",
-   "17885996952629622",
-   "18046325648832766"
-  ],
-  "files": [
-   "stories/2026-11-24/gold-monkey-1.jpg",
-   "stories/2026-11-24/gold-monkey-2.jpg",
-   "stories/2026-11-24/gold-monkey-3.jpg"
-  ]
- }
+  {
+    "kst": "2026-11-16 18:45",
+    "product_no": 5926,
+    "name": "24K 원터치 빛살 컷팅 나비 귀걸이 3.75g",
+    "files": [
+      "stories/2026-11-16/earring-1.jpg",
+      "stories/2026-11-16/earring-2.jpg",
+      "stories/2026-11-16/earring-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-16 18:45",
+    "product_no": 6476,
+    "name": "24K 순금 9999 골드바 3.75g",
+    "files": [
+      "stories/2026-11-16/goldbar-1.jpg",
+      "stories/2026-11-16/goldbar-2.jpg",
+      "stories/2026-11-16/goldbar-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-16 19:05",
+    "product_no": 6214,
+    "name": "24K 순금 목걸이 루미나 플라워 3.75g+18K 잠금장식",
+    "price": 927700,
+    "media_ids": [
+      "18132663643773738",
+      "17961453201016204",
+      "18121032595994453",
+      "18145243846619518"
+    ],
+    "files": [
+      "stories/2026-11-16/lumina-necklace-1.jpg",
+      "stories/2026-11-16/lumina-necklace-2.jpg",
+      "stories/2026-11-16/lumina-necklace-3.jpg",
+      "stories/2026-11-16/lumina-necklace-3b.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-16 22:10",
+    "product_no": 4490,
+    "name": "24K 순금 행운의 열쇠 3.75g",
+    "type": "souvenir",
+    "price": 756800,
+    "media_ids": [
+      "17916365724284624",
+      "18361319164222079",
+      "17946520629388234"
+    ],
+    "files": [
+      "stories/2026-11-16/lucky-key-1.jpg",
+      "stories/2026-11-16/lucky-key-2.jpg",
+      "stories/2026-11-16/lucky-key-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 01:20",
+    "product_no": 6460,
+    "name": "24K 순금 999.9 십이지신 골드바 3.75g",
+    "type": "goldbar",
+    "price": 743700,
+    "media_ids": [
+      "17913995850483521",
+      "17963106339257109",
+      "18020141591955661"
+    ],
+    "files": [
+      "stories/2026-11-17/zodiac-goldbar-1.jpg",
+      "stories/2026-11-17/zodiac-goldbar-2.jpg",
+      "stories/2026-11-17/zodiac-goldbar-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 04:16",
+    "product_no": 6300,
+    "name": "24K 순금 두줄 사각 반지 3.75g",
+    "type": "jewelry",
+    "price": 811000,
+    "media_ids": [
+      "18317947861304765",
+      "18102888041420198"
+    ],
+    "files": [
+      "stories/2026-11-17/square-ring-1.jpg",
+      "stories/2026-11-17/square-ring-2.jpg"
+    ],
+    "note": "3번째 장 미게시 — 사용자가 괜찮다고 함(재게시 안 함)"
+  },
+  {
+    "kst": "2026-11-17 07:20",
+    "product_no": 4437,
+    "name": "24K 순금 거북이 3.75g",
+    "type": "souvenir",
+    "price": 758000,
+    "media_ids": [
+      "18018087857973303",
+      "18455123734135513",
+      "17893946871455383"
+    ],
+    "files": [
+      "stories/2026-11-17/turtle-1.jpg",
+      "stories/2026-11-17/turtle-2.jpg",
+      "stories/2026-11-17/turtle-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 10:20",
+    "product_no": 6497,
+    "name": "24K 999.9 주물 골드바 10g (콩알금)",
+    "type": "goldbar",
+    "price": 1939500,
+    "media_ids": [
+      "18049374992684051",
+      "17933870718421266",
+      "18171713836477354"
+    ],
+    "files": [
+      "stories/2026-11-17/cast-gold-10g-1.jpg",
+      "stories/2026-11-17/cast-gold-10g-2.jpg",
+      "stories/2026-11-17/cast-gold-10g-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 13:18",
+    "product_no": 5053,
+    "name": "24K 순금 침 귀걸이 장미 1.875g",
+    "type": "jewelry",
+    "price": 441800,
+    "media_ids": [
+      "18116001920591727",
+      "17993376347864600",
+      "18083632139353021"
+    ],
+    "files": [
+      "stories/2026-11-17/rose-earring-1.jpg",
+      "stories/2026-11-17/rose-earring-2.jpg",
+      "stories/2026-11-17/rose-earring-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 16:18",
+    "product_no": 4381,
+    "name": "24K 순금 럭키 문 코인 0.3g 카드",
+    "type": "keepsake",
+    "price": 79900,
+    "media_ids": [
+      "18103652342645644",
+      "18110081803979594",
+      "18191110183373523"
+    ],
+    "files": [
+      "stories/2026-11-17/lucky-moon-1.jpg",
+      "stories/2026-11-17/lucky-moon-2.jpg",
+      "stories/2026-11-17/lucky-moon-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 19:17",
+    "product_no": 6420,
+    "name": "1kg(1000g) 프레스 실버바 999.9 한귀보 포나인 은바",
+    "type": "bar",
+    "price": 2457700,
+    "media_ids": [
+      "17981905170136844",
+      "17916464400286679",
+      "18061418711649603"
+    ],
+    "files": [
+      "stories/2026-11-17/silver-bar-1kg-1.jpg",
+      "stories/2026-11-17/silver-bar-1kg-2.jpg",
+      "stories/2026-11-17/silver-bar-1kg-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-17 22:21",
+    "product_no": 6217,
+    "name": "24K 순금 펜던트 해바라기 메달 3.75g",
+    "type": "jewelry",
+    "price": 832400,
+    "media_ids": [
+      "18348581677255717",
+      "17958234936034351",
+      "17959489263319590"
+    ],
+    "files": [
+      "stories/2026-11-17/sunflower-pendant-1.jpg",
+      "stories/2026-11-17/sunflower-pendant-2.jpg",
+      "stories/2026-11-17/sunflower-pendant-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-18 10:16",
+    "product_no": 4492,
+    "name": "24K 순금 카드 행운의 2달러 3.75g",
+    "type": "keepsake",
+    "price": 759100,
+    "media_ids": [
+      "18154060366548436",
+      "17996995803052479",
+      "17964238170249335"
+    ],
+    "files": [
+      "stories/2026-11-18/lucky-2dollar-1.jpg",
+      "stories/2026-11-18/lucky-2dollar-2.jpg",
+      "stories/2026-11-18/lucky-2dollar-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-18 13:17",
+    "product_no": 6783,
+    "name": "24K 순금 액막이 명태 0.1g 한귀보 미니골드바",
+    "type": "bar",
+    "price": 60900,
+    "media_ids": [
+      "18105264383641813",
+      "18119743106521471",
+      "17955714384344064"
+    ],
+    "files": [
+      "stories/2026-11-18/lucky-pollack-1.jpg",
+      "stories/2026-11-18/lucky-pollack-2.jpg",
+      "stories/2026-11-18/lucky-pollack-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-18 16:17",
+    "product_no": 6304,
+    "name": "24K 순금 팔찌 플라워 볼 물고기 매듭끈 1.875g",
+    "type": "jewelry",
+    "price": 446500,
+    "media_ids": [
+      "18113071654910693",
+      "18130857580887624",
+      "18099492959423640"
+    ],
+    "files": [
+      "stories/2026-11-18/knot-bracelet-1.jpg",
+      "stories/2026-11-18/knot-bracelet-2.jpg",
+      "stories/2026-11-18/knot-bracelet-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-18 19:20",
+    "product_no": 4362,
+    "name": "24K 순금 만수무강 효자손 1.875g",
+    "type": "keepsake",
+    "price": 378400,
+    "media_ids": [
+      "18101890097410225",
+      "18101522561105222",
+      "17931271062186304"
+    ],
+    "files": [
+      "stories/2026-11-18/longevity-scratcher-1.jpg",
+      "stories/2026-11-18/longevity-scratcher-2.jpg",
+      "stories/2026-11-18/longevity-scratcher-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-18 22:25",
+    "product_no": 6871,
+    "name": "24K 순금 행운의 부적 0.1g 카드 미니골드바",
+    "type": "bar",
+    "price": 42800,
+    "media_ids": [
+      "18076968758780449",
+      "18114574154194514",
+      "18133707229828953"
+    ],
+    "files": [
+      "stories/2026-11-18/lucky-charm-card-1.jpg",
+      "stories/2026-11-18/lucky-charm-card-2.jpg",
+      "stories/2026-11-18/lucky-charm-card-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-19 10:20",
+    "product_no": 6220,
+    "name": "24K 순금 목걸이 트리플 링 3.75g+18K 잠금장식",
+    "type": "jewelry",
+    "price": 910000,
+    "media_ids": [
+      "17896969185654092",
+      "18077893592775825",
+      "18122537237057653"
+    ],
+    "files": [
+      "stories/2026-11-19/triple-ring-1.jpg",
+      "stories/2026-11-19/triple-ring-2.jpg",
+      "stories/2026-11-19/triple-ring-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-19 13:25",
+    "product_no": 4410,
+    "name": "24K 순금 두꺼비 18.75g",
+    "type": "keepsake",
+    "price": 3617700,
+    "media_ids": [
+      "18120595018955778",
+      "18349035001250019",
+      "18020976296959227"
+    ],
+    "files": [
+      "stories/2026-11-19/golden-toad-1.jpg",
+      "stories/2026-11-19/golden-toad-2.jpg",
+      "stories/2026-11-19/golden-toad-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-19 16:25",
+    "product_no": 6711,
+    "name": "24K 순금 백억 수표 0.1g 카드 미니골드바",
+    "type": "bar",
+    "price": 42600,
+    "media_ids": [
+      "18047471465827952",
+      "18131504725889712",
+      "18417880735094539"
+    ],
+    "files": [
+      "stories/2026-11-19/billion-check-1.jpg",
+      "stories/2026-11-19/billion-check-2.jpg",
+      "stories/2026-11-19/billion-check-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-19 19:25",
+    "product_no": 6235,
+    "name": "24K 순금 반지 슬림 플라워 1.875g",
+    "type": "jewelry",
+    "price": 416800,
+    "media_ids": [
+      "18017405231759068",
+      "18452138557126333",
+      "17913904851309822"
+    ],
+    "files": [
+      "stories/2026-11-19/slim-flower-ring-1.jpg",
+      "stories/2026-11-19/slim-flower-ring-2.jpg",
+      "stories/2026-11-19/slim-flower-ring-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-19 22:25",
+    "product_no": 4416,
+    "name": "24K 순금 말 18.75g",
+    "type": "keepsake",
+    "price": 3611900,
+    "media_ids": [
+      "18108374452998419",
+      "18151769335564245",
+      "17917217568509651"
+    ],
+    "files": [
+      "stories/2026-11-19/golden-horse-1.jpg",
+      "stories/2026-11-19/golden-horse-2.jpg",
+      "stories/2026-11-19/golden-horse-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-20 10:25",
+    "product_no": 6583,
+    "name": "24K 순금 한국 우표 1.875g 카드 미니골드바",
+    "type": "bar",
+    "price": 378400,
+    "media_ids": [
+      "18111135430951186",
+      "18114353249183253",
+      "18140630500634744"
+    ],
+    "files": [
+      "stories/2026-11-20/korea-stamp-1.jpg",
+      "stories/2026-11-20/korea-stamp-2.jpg",
+      "stories/2026-11-20/korea-stamp-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-20 13:25",
+    "product_no": 5867,
+    "name": "24K 순금 목걸이 거북이 체인 3.75g+18K 잠금장식",
+    "type": "jewelry",
+    "price": 823800,
+    "media_ids": [
+      "18240845158320934",
+      "18124854782282738",
+      "18180220708446632"
+    ],
+    "files": [
+      "stories/2026-11-20/turtle-necklace-1.jpg",
+      "stories/2026-11-20/turtle-necklace-2.jpg",
+      "stories/2026-11-20/turtle-necklace-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-20 16:20",
+    "product_no": 4404,
+    "name": "24K 순금 돼지 18.75g",
+    "type": "keepsake",
+    "price": 3447700,
+    "media_ids": [
+      "18019418045975268",
+      "18109715515973916",
+      "18081880400406040"
+    ],
+    "files": [
+      "stories/2026-11-20/golden-pig-1.jpg",
+      "stories/2026-11-20/golden-pig-2.jpg",
+      "stories/2026-11-20/golden-pig-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-20 19:00",
+    "product_no": 6581,
+    "name": "24K 순금 아기 금수저 0.5g 카드 한귀보 미니골드바",
+    "type": "bar",
+    "price": 120200,
+    "media_ids": [
+      "18102528089430484",
+      "18176086066487996",
+      "18030362246875547"
+    ],
+    "files": [
+      "stories/2026-11-20/baby-spoon-1.jpg",
+      "stories/2026-11-20/baby-spoon-2.jpg",
+      "stories/2026-11-20/baby-spoon-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-20 22:20",
+    "product_no": 6127,
+    "name": "24K 순금 목걸이 미니 골드바 3.75g+18K 잠금장식",
+    "type": "jewelry",
+    "price": 875900,
+    "media_ids": [
+      "18203691922339029",
+      "18092274356305292",
+      "18036126851887898"
+    ],
+    "files": [
+      "stories/2026-11-20/mini-goldbar-necklace-1.jpg",
+      "stories/2026-11-20/mini-goldbar-necklace-2.jpg",
+      "stories/2026-11-20/mini-goldbar-necklace-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-21 10:20",
+    "product_no": 4481,
+    "name": "24K 순금 카드 행운의 열쇠 1.875g",
+    "type": "keepsake",
+    "price": 368000,
+    "media_ids": [
+      "17957232519324961",
+      "18116986009851504",
+      "18131985616856182"
+    ],
+    "files": [
+      "stories/2026-11-21/luck-key-card-1.jpg",
+      "stories/2026-11-21/luck-key-card-2.jpg",
+      "stories/2026-11-21/luck-key-card-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-21 13:20",
+    "product_no": 6551,
+    "name": "24K 순금 크리스마스 2달러 0.3g 카드 한귀보 미니골드바",
+    "type": "bar",
+    "price": 75800,
+    "media_ids": [
+      "18386431180240245",
+      "18134191726627537",
+      "18141473050734457"
+    ],
+    "files": [
+      "stories/2026-11-21/xmas-2dollar-1.jpg",
+      "stories/2026-11-21/xmas-2dollar-2.jpg",
+      "stories/2026-11-21/xmas-2dollar-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-21 16:20",
+    "product_no": 6128,
+    "name": "24K 순금 펜던트 행운의 잉어 메달 3.75g",
+    "type": "jewelry",
+    "price": 764600,
+    "media_ids": [
+      "17920165938540548",
+      "18137597075508087",
+      "18115765121613851"
+    ],
+    "files": [
+      "stories/2026-11-21/lucky-carp-1.jpg",
+      "stories/2026-11-21/lucky-carp-2.jpg",
+      "stories/2026-11-21/lucky-carp-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-21 19:20",
+    "product_no": 4389,
+    "name": "24K 순금 부엉이 3.75g",
+    "type": "keepsake",
+    "price": 754500,
+    "media_ids": [
+      "18445306225180666",
+      "18498860704129091",
+      "17893049937687040"
+    ],
+    "files": [
+      "stories/2026-11-21/gold-owl-1.jpg",
+      "stories/2026-11-21/gold-owl-2.jpg",
+      "stories/2026-11-21/gold-owl-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-21 22:20",
+    "product_no": 4372,
+    "name": "24K 순금 럭키 세븐 잭팟 0.3g 카드 한귀보 미니골드바",
+    "type": "bar",
+    "price": 75800,
+    "media_ids": [
+      "18112629803338235",
+      "18060495053572092",
+      "18143888758618595"
+    ],
+    "files": [
+      "stories/2026-11-21/lucky-seven-1.jpg",
+      "stories/2026-11-21/lucky-seven-2.jpg",
+      "stories/2026-11-21/lucky-seven-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-22 10:20",
+    "product_no": 6659,
+    "name": "24K 순금 반지 복 두꺼비 3.75g",
+    "type": "jewelry",
+    "price": 764600,
+    "media_ids": [
+      "18109791302211314",
+      "17906560347604649",
+      "17893915983623614"
+    ],
+    "files": [
+      "stories/2026-11-22/toad-ring-1.jpg",
+      "stories/2026-11-22/toad-ring-2.jpg",
+      "stories/2026-11-22/toad-ring-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-22 13:20",
+    "product_no": 4467,
+    "name": "24K 순금 토끼 3.75g",
+    "type": "keepsake",
+    "price": 703600,
+    "media_ids": [
+      "18215001352368191",
+      "18137369821748570",
+      "18121021088036866"
+    ],
+    "files": [
+      "stories/2026-11-22/gold-rabbit-1.jpg",
+      "stories/2026-11-22/gold-rabbit-2.jpg",
+      "stories/2026-11-22/gold-rabbit-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-22 16:20",
+    "product_no": 4380,
+    "name": "24K 순금 럭키 클로버 코인 0.3g 카드 한귀보 미니골드바",
+    "type": "bar",
+    "price": 75800,
+    "media_ids": [
+      "18101217311397596",
+      "17971764741079109",
+      "18045261887828672"
+    ],
+    "files": [
+      "stories/2026-11-22/lucky-clover-1.jpg",
+      "stories/2026-11-22/lucky-clover-2.jpg",
+      "stories/2026-11-22/lucky-clover-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-22 19:20",
+    "product_no": 6546,
+    "name": "24K 순금 목걸이 빛살 컷팅 부엉이 3.75g+18K 잠금장식",
+    "type": "jewelry",
+    "price": 878300,
+    "media_ids": [
+      "18441823171181156",
+      "18101650265426689",
+      "17980598457151121"
+    ],
+    "files": [
+      "stories/2026-11-22/owl-necklace-1.jpg",
+      "stories/2026-11-22/owl-necklace-2.jpg",
+      "stories/2026-11-22/owl-necklace-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-24 10:20",
+    "product_no": 4455,
+    "name": "24K 순금 원숭이 3.75g",
+    "type": "keepsake",
+    "price": 719800,
+    "media_ids": [
+      "18122023507768144",
+      "17885996952629622",
+      "18046325648832766"
+    ],
+    "files": [
+      "stories/2026-11-24/gold-monkey-1.jpg",
+      "stories/2026-11-24/gold-monkey-2.jpg",
+      "stories/2026-11-24/gold-monkey-3.jpg"
+    ]
+  },
+  {
+    "kst": "2026-11-24 13:20",
+    "product_no": 4379,
+    "name": "24K 순금 복주머니 코인 0.3g 카드 한귀보 미니골드바",
+    "type": "bar",
+    "price": 77800,
+    "media_ids": [
+      "18607280377071802",
+      "17957136927342812",
+      "17917613619556827"
+    ],
+    "files": [
+      "stories/2026-11-24/lucky-pouch-1.jpg",
+      "stories/2026-11-24/lucky-pouch-2.jpg",
+      "stories/2026-11-24/lucky-pouch-3.jpg"
+    ]
+  }
 ]
