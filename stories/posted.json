@@ -647,5 +647,22 @@
       "stories/2026-11-24/turtle-pendant-2.jpg",
       "stories/2026-11-24/turtle-pendant-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-24 19:20",
+    "product_no": 4425,
+    "name": "24K 순금 뱀 3.75g",
+    "type": "keepsake",
+    "price": 722100,
+    "media_ids": [
+      "18652009255059166",
+      "17972295957215993",
+      "18234127369328077"
+    ],
+    "files": [
+      "stories/2026-11-24/gold-snake-1.jpg",
+      "stories/2026-11-24/gold-snake-2.jpg",
+      "stories/2026-11-24/gold-snake-3.jpg"
+    ]
   }
 ]
