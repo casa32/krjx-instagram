@@ -732,5 +732,22 @@
       "stories/2026-11-25/love-rose-2.jpg",
       "stories/2026-11-25/love-rose-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-25 19:20",
+    "product_no": 6088,
+    "name": "24K 순금 펜던트 뱀 메달 3.75g",
+    "type": "jewelry",
+    "price": 752700,
+    "media_ids": [
+      "17887050624529379",
+      "18134911495687639",
+      "17911821240575789"
+    ],
+    "files": [
+      "stories/2026-11-25/snake-pendant-1.jpg",
+      "stories/2026-11-25/snake-pendant-2.jpg",
+      "stories/2026-11-25/snake-pendant-3.jpg"
+    ]
   }
 ]
