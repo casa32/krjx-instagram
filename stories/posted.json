@@ -698,5 +698,22 @@
       "stories/2026-11-25/carrot-bunny-2.jpg",
       "stories/2026-11-25/carrot-bunny-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-25 13:20",
+    "product_no": 4401,
+    "name": "24K 순금 닭 3.75g",
+    "type": "keepsake",
+    "price": 704800,
+    "media_ids": [
+      "18083461247726884",
+      "18350460706253499",
+      "18168624346486886"
+    ],
+    "files": [
+      "stories/2026-11-25/gold-rooster-1.jpg",
+      "stories/2026-11-25/gold-rooster-2.jpg",
+      "stories/2026-11-25/gold-rooster-3.jpg"
+    ]
   }
 ]
