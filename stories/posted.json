@@ -749,5 +749,22 @@
       "stories/2026-11-25/snake-pendant-2.jpg",
       "stories/2026-11-25/snake-pendant-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-25 22:20",
+    "product_no": 4395,
+    "name": "24K 순금 개 3.75g",
+    "type": "keepsake",
+    "price": 697800,
+    "media_ids": [
+      "18122895017099596",
+      "18127906138720761",
+      "18146665681609958"
+    ],
+    "files": [
+      "stories/2026-11-25/gold-dog-1.jpg",
+      "stories/2026-11-25/gold-dog-2.jpg",
+      "stories/2026-11-25/gold-dog-3.jpg"
+    ]
   }
 ]
