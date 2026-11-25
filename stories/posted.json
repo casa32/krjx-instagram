@@ -681,5 +681,22 @@
       "stories/2026-11-24/flying-kite-2.jpg",
       "stories/2026-11-24/flying-kite-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-25 10:20",
+    "product_no": 4990,
+    "name": "24K 순금 펜던트 통통 당근 토끼 메달 3.75g",
+    "type": "jewelry",
+    "price": 769300,
+    "media_ids": [
+      "18127415638934363",
+      "18117694634611824",
+      "17914919277574514"
+    ],
+    "files": [
+      "stories/2026-11-25/carrot-bunny-1.jpg",
+      "stories/2026-11-25/carrot-bunny-2.jpg",
+      "stories/2026-11-25/carrot-bunny-3.jpg"
+    ]
   }
 ]
