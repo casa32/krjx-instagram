@@ -800,5 +800,22 @@
       "stories/2026-11-26/cushion-necklace-2.jpg",
       "stories/2026-11-26/cushion-necklace-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-26 16:20",
+    "product_no": 4419,
+    "name": "24K 순금 말 3.75g",
+    "type": "keepsake",
+    "price": 714000,
+    "media_ids": [
+      "17891073318485415",
+      "18015728720985968",
+      "18232725109332873"
+    ],
+    "files": [
+      "stories/2026-11-26/horse-375-1.jpg",
+      "stories/2026-11-26/horse-375-2.jpg",
+      "stories/2026-11-26/horse-375-3.jpg"
+    ]
   }
 ]
