@@ -817,5 +817,22 @@
       "stories/2026-11-26/horse-375-2.jpg",
       "stories/2026-11-26/horse-375-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-26 19:16",
+    "product_no": 4377,
+    "name": "24K 순금 비트코인 0.3g 카드 한귀보 미니골드바",
+    "type": "bar",
+    "price": 76100,
+    "media_ids": [
+      "18084167783737772",
+      "17965378671000209",
+      "17920504740499493"
+    ],
+    "files": [
+      "stories/2026-11-26/bitcoin-card-1.jpg",
+      "stories/2026-11-26/bitcoin-card-2.jpg",
+      "stories/2026-11-26/bitcoin-card-3.jpg"
+    ]
   }
 ]
