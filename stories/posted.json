@@ -902,5 +902,22 @@
       "stories/2026-11-27/cross-pendant-2.jpg",
       "stories/2026-11-27/cross-pendant-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-27 19:20",
+    "product_no": 4413,
+    "name": "24K 순금 두꺼비 3.75g",
+    "type": "keepsake",
+    "price": 722100,
+    "media_ids": [
+      "17928998817440211",
+      "18094487954298467",
+      "18113020357899533"
+    ],
+    "files": [
+      "stories/2026-11-27/toad-375-1.jpg",
+      "stories/2026-11-27/toad-375-2.jpg",
+      "stories/2026-11-27/toad-375-3.jpg"
+    ]
   }
 ]
