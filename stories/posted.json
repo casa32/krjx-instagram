@@ -868,5 +868,22 @@
       "stories/2026-11-27/pig-375-2.jpg",
       "stories/2026-11-27/pig-375-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-27 13:18",
+    "product_no": 4371,
+    "name": "24K 순금 행운의 2달러 0.3g 카드 한귀보 미니골드바",
+    "type": "bar",
+    "price": 77000,
+    "media_ids": [
+      "17887933242627781",
+      "17900478426411768",
+      "18122072984100034"
+    ],
+    "files": [
+      "stories/2026-11-27/two-dollar-card-1.jpg",
+      "stories/2026-11-27/two-dollar-card-2.jpg",
+      "stories/2026-11-27/two-dollar-card-3.jpg"
+    ]
   }
 ]
