@@ -919,5 +919,22 @@
       "stories/2026-11-27/toad-375-2.jpg",
       "stories/2026-11-27/toad-375-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-27 22:22",
+    "product_no": 4368,
+    "name": "24K 순금 카드 행운의 열쇠 0.5g",
+    "type": "bar",
+    "price": 121500,
+    "media_ids": [
+      "18121146724797361",
+      "17896089177617273",
+      "18360506437267369"
+    ],
+    "files": [
+      "stories/2026-11-27/golden-key-card-1.jpg",
+      "stories/2026-11-27/golden-key-card-2.jpg",
+      "stories/2026-11-27/golden-key-card-3.jpg"
+    ]
   }
 ]
