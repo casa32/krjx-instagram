@@ -851,5 +851,22 @@
       "stories/2026-11-26/heart-necklace-2.jpg",
       "stories/2026-11-26/heart-necklace-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-27 10:20",
+    "product_no": 4407,
+    "name": "24K 순금 돼지 3.75g",
+    "type": "keepsake",
+    "price": 704800,
+    "media_ids": [
+      "17997956610115770",
+      "18652625194013843",
+      "18135425539834826"
+    ],
+    "files": [
+      "stories/2026-11-27/pig-375-1.jpg",
+      "stories/2026-11-27/pig-375-2.jpg",
+      "stories/2026-11-27/pig-375-3.jpg"
+    ]
   }
 ]
