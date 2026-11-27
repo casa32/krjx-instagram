@@ -885,5 +885,22 @@
       "stories/2026-11-27/two-dollar-card-2.jpg",
       "stories/2026-11-27/two-dollar-card-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-27 16:22",
+    "product_no": 6091,
+    "name": "24K 순금 펜던트 플라워 컷팅 십자가 메달 3.75g",
+    "type": "jewelry",
+    "price": 800300,
+    "media_ids": [
+      "18151150054563906",
+      "18133606549842518",
+      "17995054488117464"
+    ],
+    "files": [
+      "stories/2026-11-27/cross-pendant-1.jpg",
+      "stories/2026-11-27/cross-pendant-2.jpg",
+      "stories/2026-11-27/cross-pendant-3.jpg"
+    ]
   }
 ]
