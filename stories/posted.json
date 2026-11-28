@@ -970,5 +970,22 @@
       "stories/2026-11-28/dragon-375-2.jpg",
       "stories/2026-11-28/dragon-375-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-28 16:16",
+    "product_no": 4370,
+    "name": "24K 순금 백억 수표 0.3g 카드",
+    "type": "bar",
+    "price": 77300,
+    "media_ids": [
+      "18024167690959814",
+      "18135466399815316",
+      "18421709494085801"
+    ],
+    "files": [
+      "stories/2026-11-28/billion-card-03-1.jpg",
+      "stories/2026-11-28/billion-card-03-2.jpg",
+      "stories/2026-11-28/billion-card-03-3.jpg"
+    ]
   }
 ]
