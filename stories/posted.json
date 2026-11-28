@@ -953,5 +953,22 @@
       "stories/2026-11-28/clover-ring-2.jpg",
       "stories/2026-11-28/clover-ring-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-28 13:18",
+    "product_no": 4449,
+    "name": "24K 순금 용 3.75g",
+    "type": "keepsake",
+    "price": 724400,
+    "media_ids": [
+      "17918369976513988",
+      "18660019879040736",
+      "18054995342643891"
+    ],
+    "files": [
+      "stories/2026-11-28/dragon-375-1.jpg",
+      "stories/2026-11-28/dragon-375-2.jpg",
+      "stories/2026-11-28/dragon-375-3.jpg"
+    ]
   }
 ]
