@@ -936,5 +936,22 @@
       "stories/2026-11-27/golden-key-card-2.jpg",
       "stories/2026-11-27/golden-key-card-3.jpg"
     ]
+  },
+  {
+    "kst": "2026-11-28 10:22",
+    "product_no": 6261,
+    "name": "24K 순금 반지 빛살 컷팅 클로버 3.75g",
+    "type": "jewelry",
+    "price": 789600,
+    "media_ids": [
+      "17957784600315063",
+      "18088429400329914",
+      "18061613462799030"
+    ],
+    "files": [
+      "stories/2026-11-28/clover-ring-1.jpg",
+      "stories/2026-11-28/clover-ring-2.jpg",
+      "stories/2026-11-28/clover-ring-3.jpg"
+    ]
   }
 ]
